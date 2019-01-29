@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:vivimee/proxy-server.git",
   "author": "vivimee",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa2-cors": "^2.0.6",
+    "request": "^2.88.0",
+    "rss-parser": "^3.6.2"
+  }
 }
